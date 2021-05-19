@@ -1,0 +1,52 @@
+body {
+    background-color: white;
+    color: black;
+    margin: 1em;
+    font-family: "Open Sans", sans-serif;
+}
+
+header, main {
+    margin-right: 80px;
+    margin-left: 80px;
+    margin-bottom: 1em;
+}
+
+h1, h2 {
+    margin-bottom: 0;
+    font-family: 'Bitter', "Varela Round", sans-serif;
+    color: #5d9277;
+}
+
+a {
+    outline: none;
+    color: #5e9287;
+}
+
+a:hover {
+    color: #e03d2c;
+}
+
+b {
+    font-family: 'Bitter', "Varela Round", sans-serif;
+}
+
+ul {
+    color: black;
+    list-style-type: circle;
+    margin-top: 0.3em;
+}
+
+li, ul {
+    padding-left: 0;
+    margin-bottom: 10px;
+    margin-left: 1.5em;
+}
+
+li p {
+    color: #30305f;
+    margin: 0;
+}
+
+section#aboutme p {
+    margin-left: 1.5em;
+}
